@@ -1,0 +1,5 @@
+resolver: nightly-2016-08-29
+packages:
+- 'the-pkg/'
+- location: 'the-dep/'
+  extra-dep: true
